@@ -7,7 +7,7 @@
 - 🌱 Learning React Framework
 - 💻 Skills: JavaScript, Java, HTML/CSS, Python
 - 👯 Looking for collaboration opportunities
-- 📫 Reach me at [mohammedmafaz207@example.com](mailto:mohammedmafaz207@example.com)
+- 📫 Reach me at [mohammedmafaz207@gmail.com](mailto:mohammedmafaz207@gmail.com)
 
 
 ## Fun Fact
