@@ -2,10 +2,10 @@
 
 ## Computer Science Student at Vishvesvaraya Technological University
 
-- 🎓 Studying Computer Science
+- 🎓 Computer Science and Engineering [2025]
 - 🔭 Currently working on web development projects
 - 🌱 Learning React Framework
-- 💻 Skills: JavaScript, Java, HTML/CSS, Spring Boot, RestAPI
+- 💻 Skills: Java, HTML/CSS, JavaScript, SQL, Spring Boot, RestAPI
 - 👯 Looking for collaboration opportunities
 - 📫 Reach me at [mohammedmafaz207@gmail.com](mailto:mohammedmafaz207@gmail.com)
 
