@@ -2,7 +2,7 @@
  
 💻 Java / Spring Boot Developer  
 🎓 2025 Computer Science and Engineering Graduate   
-📍 Bangalore, India 
+📍 Bangalore, India   
 🚀 Actively looking for **Java & Spring Boot Developer** opportunities  
 
 ---
