@@ -68,8 +68,11 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedmafaz207@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-mafaz-in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/mohammed-mafaz)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/mohammedmafaz)
 
 ---
+
+**Fun fact**: I’ve maintained a 1150-day streak on Duolingo learning Arabic 🦉 !
 
 ⭐️ *Thanks for visiting my profile!*
