@@ -73,6 +73,6 @@
 
 ---
 
-**Fun fact**: I’ve maintained a 1150-day streak on Duolingo learning Arabic 🦉 !
+**Fun fact**: I’ve maintained a 1200-day+ streak on Duolingo learning Arabic 🦉 !
 
 ⭐️ *Thanks for visiting my profile!*
